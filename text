@@ -1,0 +1,11 @@
+initialize npm
+make .env
+install nodemon as dev dependencies
+npm i -D packagename
+create src and initial files
+index/constants, app.js
+
+.prettierrc and  => for maintaining, controlling same format if more than one user is working on same project
+.prettierrcignore => files where we don't have to apply this
+initialize repo, commit
+

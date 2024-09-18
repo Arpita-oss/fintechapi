@@ -1,0 +1,20 @@
+{
+  "name": "fintechapi",
+  "version": "1.0.0",
+  "description": "a fintech fullstack api",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "restfull"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.5",
+    "prettier": "^3.3.3"
+  }
+}
