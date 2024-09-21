@@ -9,3 +9,11 @@ index/constants, app.js
 .prettierrcignore => files where we don't have to apply this
 initialize repo, commit
 
+git clone paste
+git  checkout -b name
+git add.
+git commit -m "Initial dhanesh commit"
+git push -u origin dhanesh
+
+config=> 
+ db, middleware , routes, models, controllers, utils
